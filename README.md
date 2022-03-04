@@ -14,4 +14,6 @@ Admin the "LinuxSovet" group:
 * [Telegram (chat)](https://t.me/linuxsovet_chat)
 * [GitHub pages](https://linuxoid85.github.io/LinuxSovet)
 
+## Ukraine attacked the ДНР and ЛНР
+
 > Я против провокаций Украины и прочих стран. Я против размещения Украиной своих установок рядом с детскими садами, домами **обычных** жителей. Я против убийств украинцами **СВОИХ** же жителей - жителей ДНР и ЛНР. Я против нацизма на Украине. СЛАВА ВСЕМ НАМ!
