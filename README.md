@@ -1,4 +1,3 @@
-# Z
 ### Hi there 👋
 
 GNU/Linux (Calmira LX4 1.1 and Fedora 35) and FreeBSD user. I take part in the development of the [Linux for Yourself](https://github.com/Linux4Yourself) project, the creator of the independent [Calmira GNU/Linux](https://github.com/CalmiraLinux) distribution.
@@ -14,5 +13,3 @@ Admin the "LinuxSovet" group:
 * [Telegram (channel)](https://t.me/linuxsovet)
 * [Telegram (chat)](https://t.me/linuxsovet_chat)
 * [GitHub pages](https://linuxoid85.github.io/LinuxSovet)
-
-> Я против провокаций Украины и прочих стран, размещения Украиной своих установок рядом с детскими садами, домами **обычных** жителей, убийств украинцами **СВОИХ** же жителей - жителей ДНР и ЛНР, нацизма на Украине
