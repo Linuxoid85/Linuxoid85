@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-GNU/Linux (Calmira LX4 1.1 and Fedora 35) and FreeBSD user. I take part in the development of the [Linux for Yourself](https://github.com/Linux4Yourself) project, the creator of the independent [Calmira GNU/Linux](https://github.com/CalmiraLinux) distribution.
+GNU/Linux (Calmira LX4 1.1 (LFS 10.1, LX4U 1.3), Fedora 35) and FreeBSD user. I take part in the development of the [Linux for Yourself](https://github.com/Linux4Yourself) project.
 
 Contact me:
 * [Telegram](https://t.me/linuxoid85)
